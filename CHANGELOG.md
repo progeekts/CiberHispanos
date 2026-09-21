@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.0 — 2026-09-21
+
+- Primera versión estable de CiberHispanos.
+- Rutas universales para personas afectadas, acompañantes, familias y profesionales.
+- Refugio, orientador privado, buscador local y Mi Plan privado.
+- Guías prácticas, casos frecuentes y centro de ayuda por plataformas.
+- Accesos persistentes a ayuda inmediata y recursos oficiales en España.
+- Corrección de rutas relativas, navegación, accesibilidad básica y experiencia móvil.
+- Revisión de recursos críticos oficiales: 024, INCIBE 017, ANAR, AEPD y marco LOPIVI.
+- Arquitectura estática portable sin dependencia funcional de GitHub Pages.
+
 ## 1.0.0-rc1 · 2026-09-21
 - Refugio y rutas de ayuda inmediata.
 - Orientador privado y buscador local.

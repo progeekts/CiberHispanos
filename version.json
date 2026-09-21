@@ -1,22 +1,30 @@
 {
   "name": "CiberHispanos",
-  "version": "1.0.0-rc3",
-  "status": "release-candidate",
+  "version": "1.0.0",
+  "status": "stable",
   "updated": "2026-09-21",
   "checks": [
     "identidad visual global",
-    "emergencia persistente",
-    "lenguaje general válido para cualquier edad",
-    "rutas de guías verificadas",
-    "CSS de casos corregido",
-    "navegación interna de casos corregida",
-    "centro de plataformas ampliado",
+    "navegación y rutas internas auditadas",
+    "CSS y JavaScript común auditados",
+    "buscador privado operativo",
+    "Mi Plan con persistencia local",
     "orientador con salida de crisis",
+    "lenguaje general válido para cualquier edad",
+    "rutas de guías y casos auditadas",
+    "accesibilidad básica de navegación",
+    "emergencia persistente",
+    "recursos críticos contrastados con fuentes oficiales",
+    "024 Ministerio de Sanidad verificado",
+    "017 INCIBE y canales verificados",
+    "líneas ANAR verificadas",
+    "Canal Prioritario AEPD verificado",
+    "LOPIVI artículo 35 verificado",
     "privacidad por diseño"
   ],
-  "pending": [
-    "prueba HTTP final de la web desplegada",
-    "verificación visual móvil/escritorio en producción",
-    "revisión final de recursos externos críticos"
+  "notes": [
+    "Los procedimientos de plataformas pueden cambiar y se enlazan recursos oficiales.",
+    "CiberHispanos no recibe denuncias ni sustituye servicios de emergencia, sanitarios, jurídicos, sociales o policiales.",
+    "La validación visual sobre un dominio de producción propio se realizará cuando el dominio esté conectado al proyecto."
   ]
 }

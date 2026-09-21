@@ -1,18 +1,22 @@
 {
   "name": "CiberHispanos",
-  "version": "1.0.0-rc2",
+  "version": "1.0.0-rc3",
   "status": "release-candidate",
   "updated": "2026-09-21",
   "checks": [
-    "navegacion troncal unificada",
-    "rutas principales revisadas",
+    "identidad visual global",
+    "emergencia persistente",
+    "lenguaje general válido para cualquier edad",
+    "rutas de guías verificadas",
+    "CSS de casos corregido",
+    "navegación interna de casos corregida",
+    "centro de plataformas ampliado",
     "orientador con salida de crisis",
-    "ruta antigua para-jovenes redirigida",
-    "404 y robots presentes",
-    "privacidad y fuentes accesibles"
+    "privacidad por diseño"
   ],
   "pending": [
-    "verificacion final de enlaces externos en producción",
-    "prueba visual final en URL pública antes de declarar estable"
+    "prueba HTTP final de la web desplegada",
+    "verificación visual móvil/escritorio en producción",
+    "revisión final de recursos externos críticos"
   ]
 }

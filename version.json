@@ -1,7 +1,18 @@
 {
   "name": "CiberHispanos",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "status": "release-candidate",
   "updated": "2026-09-21",
-  "notes": "Revisión previa a primera publicación pública."
+  "checks": [
+    "navegacion troncal unificada",
+    "rutas principales revisadas",
+    "orientador con salida de crisis",
+    "ruta antigua para-jovenes redirigida",
+    "404 y robots presentes",
+    "privacidad y fuentes accesibles"
+  ],
+  "pending": [
+    "verificacion final de enlaces externos en producción",
+    "prueba visual final en URL pública antes de declarar estable"
+  ]
 }
